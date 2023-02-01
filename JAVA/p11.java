@@ -2,7 +2,7 @@ import java.io.DataInputStream;
 import java.io.IOException;
 import java.math.BigInteger;
 import java.util.Random;
-public class p11
+public class RSA
 {
 private BigInteger p,q,N,phi,e,d;
 private int bitlength=1024;
