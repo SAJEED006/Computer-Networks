@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-public class p7 {
+public class CRC1 {
 
     public static void main(String args[]) {
 
