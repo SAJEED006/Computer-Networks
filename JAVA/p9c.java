@@ -1,6 +1,6 @@
 import java.net.*; 
 import java.io.*; 
-public class p9c 
+public class TCPC
 { 
 public static void main(String[] args) throws Exception 
 { 
