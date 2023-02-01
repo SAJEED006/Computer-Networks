@@ -1,7 +1,7 @@
 import java.io.*; 
 import java.net.*; 
 import java.net.InetAddress; 
-class p10c
+class UDPClient
 { 
 public static void main(String[] args)throws Exception 
 { 
